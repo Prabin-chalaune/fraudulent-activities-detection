@@ -1,4 +1,4 @@
-# Fraud Detection Using Machine Learning and Graph Databases
+# Fraud Detection using Machine Learning and Graph DB
 The goal of this project is to identify **fraudulent activities in banking transactions** by combining **machine learning techniques** with **graph databases**. The project utilizes the **BankSim dataset**, a simulated dataset generated from a sample of transaction data from a Spanish bank. It explores fraud detection using both traditional transaction-level features and graph-based relationships between entities and transactions.
 
 ## Purpose of Source Files
